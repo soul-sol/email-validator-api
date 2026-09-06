@@ -122,6 +122,7 @@ The test suite mocks DNS; it does not depend on public resolvers or network acce
 <!-- xlink:start -->
 ## Related free tools
 
+- [CLAUDE.md Auditor](https://claudemd.lifestep.io) - paste your rules file and see which rules an agent cannot reliably follow
 - [XLSX Inspector](https://xlsx.lifestep.io) — check workbooks for macros, external links and hidden sheets
 - [DNS and SPF Check](https://dnscheck.lifestep.io) — records, SPF, DMARC and TLS expiry
 - [Email Validator](https://emailcheck.lifestep.io) — syntax, MX, disposable and role addresses
